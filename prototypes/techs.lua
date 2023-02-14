@@ -16,7 +16,7 @@ data:extend(
     prerequisites = {"engine","automation-2","steel-axe"},
     unit =
     {
-      count = 20,
+      count = 30,
       ingredients =
       {
         {"automation-science-pack", 2},
@@ -42,7 +42,7 @@ data:extend(
     prerequisites = {"advanced-oil-processing","advanced-material-processing","AMT-mining-up2"},
     unit =
     {
-      count = 40,
+      count = 60,
       ingredients =
       {
         {"automation-science-pack", 2},
@@ -69,7 +69,7 @@ data:extend(
     prerequisites = {"electric-engine","low-density-structure","production-science-pack","AMT-mining-up2"},
     unit =
     {
-      count = 40,
+      count = 60,
       ingredients =
       {
         {"automation-science-pack", 2},
@@ -96,7 +96,7 @@ data:extend(
     prerequisites = {"laser","rocket-control-unit","AMT-mining-up2"},
     unit =
     {
-      count = 40,
+      count = 60,
       ingredients =
       {
         {"automation-science-pack", 2},
