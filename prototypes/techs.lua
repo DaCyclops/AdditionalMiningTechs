@@ -39,7 +39,7 @@ data:extend(
         modifier = 0.45
       }
     },
-    prerequisites = {"advanced-oil-processing","advanced-material-processing","AMT-mining-up2"},
+    prerequisites = {"advanced-oil-processing","advanced-material-processing","chemical-science-pack","AMT-mining-up2"},
     unit =
     {
       count = 60,
@@ -93,7 +93,7 @@ data:extend(
         modifier = 0.45
       }
     },
-    prerequisites = {"laser","rocket-control-unit","AMT-mining-up2"},
+    prerequisites = {"laser","processing-unit","utility-science-pack","AMT-mining-up2"},
     unit =
     {
       count = 60,
