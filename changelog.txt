@@ -1,0 +1,30 @@
+Version: 2.1.0
+Date: 25. 06. 2026
+  Compatibility:
+    - Updated for Factorio 2.1
+  Info:
+    - Added Changelog File
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 17. 11. 2024
+  Compatibility:
+    - Updated for Factorio 2.0
+    - Replaced removed items with other items
+    - Added Science Packs as pre-reqs for technologies
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 14. 02. 2023
+  Compatibility:
+    - Updated for Factorio 1.1
+  Balancing:
+    - Increased Tech Costs by 50%, because they felt a little cheap
+---------------------------------------------------------------------------------------------------
+Version: 0.18.0
+Date: 17. 08. 2020
+  Compatibility:
+    - Updated for Factorio 0.18
+---------------------------------------------------------------------------------------------------
+Version: 0.17.2
+Date: 03. 03. 2019
+  Compatibility:
+    - Initial Version for Factorio 0.15

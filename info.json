@@ -1,11 +1,11 @@
 {
   "name": "AdditionalMiningTechs",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "title": "Additional Mining Techs",
   "author": "DaCyclops",
   "homepage": "",
   "contact": "dacyclops@dacyclops.com",
   "description": "Adds additional mining level research.",
-  "factorio_version":"2.0",
+  "factorio_version":"2.1",
   "dependencies": []
 }
